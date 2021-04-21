@@ -1,4 +1,4 @@
-# SmartBrain-api
+# SmartBrain-api - v2
 
 1. Run `npm install`
 2. Run `npm start`
